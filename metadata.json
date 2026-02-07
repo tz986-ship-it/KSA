@@ -1,0 +1,8 @@
+{
+  "name": "KSA Gap Analysis - AI Talent Portal",
+  "description": "A comprehensive skills-based talent management tool using AI to assess and bridge gaps in Knowledge, Skills, and Abilities with gamified progression.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
